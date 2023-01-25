@@ -4,4 +4,4 @@ This is a simple Swift trivia quiz game. The Trivia game includes 20 questions o
 This was done to further self-teach and familiarize myself with the Swift language and the SwiftUI framework.
 
 
-**Development would go faster if my current MacBook wasn't using an intel i5 ;(**
+
